@@ -1,4 +1,4 @@
-module github.com/caddy-dns/template
+module github.com/peterberkenbosch/dnsimple
 
 go 1.16
 
